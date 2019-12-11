@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["David Stroud", "Data Scientist.", "Artificial Intelligence.", "Machine Learning.", "Deep Learning"],
+      strings: ["David Stroud", "Data Science.", "Artificial Intelligence.", "Machine Learning.", "Deep Learning"],
       typeSpeed: 100,
       loop: true,
     });
