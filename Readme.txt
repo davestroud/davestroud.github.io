@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: BizPage
-Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
+Theme Name: Reveal
+Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
